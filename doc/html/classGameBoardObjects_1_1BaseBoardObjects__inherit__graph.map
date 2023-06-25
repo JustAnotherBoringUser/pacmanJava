@@ -1,0 +1,7 @@
+<map id="GameBoardObjects.BaseBoardObjects" name="GameBoardObjects.BaseBoardObjects">
+<area shape="rect" id="node1" title=" " alt="" coords="209,5,431,244"/>
+<area shape="rect" id="node2" href="$classGameBoardObjects_1_1Fruit.html" title=" " alt="" coords="5,292,187,413"/>
+<area shape="rect" id="node4" href="$classGameBoardObjects_1_1HorizontalObstacle.html" title=" " alt="" coords="211,307,429,399"/>
+<area shape="rect" id="node5" title=" " alt="" coords="454,307,655,399"/>
+<area shape="rect" id="node3" href="$classGameBoardObjects_1_1Frog.html" title=" " alt="" coords="6,461,186,583"/>
+</map>

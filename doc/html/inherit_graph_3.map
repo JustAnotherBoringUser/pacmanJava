@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,44,120,71"/>
+<area shape="rect" id="node2" href="$classFrame_1_1EntryScreen.html" title=" " alt="" coords="205,5,350,32"/>
+<area shape="rect" id="node3" href="$classGameBoardPanels_1_1SnakePanel.html" title=" " alt="" coords="168,56,387,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="32,120,93,147"/>
+<area shape="rect" id="node5" href="$classFrame_1_1GameBoard.html" title=" " alt="" coords="205,208,349,235"/>
+<area shape="rect" id="node6" href="$classFrame_1_1GameOverScreen.html" title=" " alt="" coords="187,259,368,285"/>
+<area shape="rect" id="node7" href="$classFrame_1_1LeaderBoardScreen.html" title=" " alt="" coords="181,107,374,133"/>
+<area shape="rect" id="node8" href="$classGameBoardPanels_1_1ScorePanel.html" title=" " alt="" coords="169,157,385,184"/>
+</map>
